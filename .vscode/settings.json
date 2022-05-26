@@ -1,3 +1,4 @@
 {
-    "liveServer.settings.multiRootWorkspaceName": "movies-app"
+    "liveServer.settings.multiRootWorkspaceName": "movies-app",
+    "liveServer.settings.port": 5501
 }
